@@ -1,0 +1,4 @@
+../Core/Src/user-task05.c:39:13:MutexHighPriorityThread	96	static
+../Core/Src/user-task05.c:65:13:MutexMeduimPriorityThread	96	static
+../Core/Src/user-task05.c:99:13:MutexLowPriorityThread	96	static
+../Core/Src/user-task05.c:126:6:task05_thread_create	104	static

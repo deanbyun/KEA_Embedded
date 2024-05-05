@@ -1,0 +1,2 @@
+../Core/Src/user-uart.c:14:6:user_uart_send_char	24	static
+../Core/Src/user-uart.c:26:6:user_uart_send_msg	24	static

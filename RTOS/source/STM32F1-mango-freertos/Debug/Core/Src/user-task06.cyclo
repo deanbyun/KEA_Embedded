@@ -1,0 +1,4 @@
+../Core/Src/user-task06.c:35:13:MutexHighPriorityThread	3
+../Core/Src/user-task06.c:82:13:MutexMeduimPriorityThread	5
+../Core/Src/user-task06.c:138:13:MutexLowPriorityThread	7
+../Core/Src/user-task06.c:196:6:task06_thread_create	2
