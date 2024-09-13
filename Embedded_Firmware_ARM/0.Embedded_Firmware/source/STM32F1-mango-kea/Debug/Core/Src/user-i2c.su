@@ -1,0 +1,7 @@
+../Core/Src/user-i2c.c:22:24:_i2c_data_conv	24	static
+../Core/Src/user-i2c.c:33:20:_i2c_error_handler	8	static
+../Core/Src/user-i2c.c:38:16:_i2c_master_send	32	static
+../Core/Src/user-i2c.c:60:16:_i2c_master_recv	32	static
+../Core/Src/user-i2c.c:84:6:user_i2c_bh17_test	40	static
+../Core/Src/user-i2c.c:115:9:user_i2c_bh17_device_set	16	static
+../Core/Src/user-i2c.c:126:9:user_i2c_bh17_data_get	16	static
