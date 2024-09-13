@@ -1,0 +1,1 @@
+savedcmd_/home/test/project/kernel/kernel-study/study-local-raspi/drivers/gpio-io/gpio-io.mod := printf '%s\n'   gpio-io.o | awk '!x[$$0]++ { print("/home/test/project/kernel/kernel-study/study-local-raspi/drivers/gpio-io/"$$0) }' > /home/test/project/kernel/kernel-study/study-local-raspi/drivers/gpio-io/gpio-io.mod

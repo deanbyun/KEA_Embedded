@@ -1,0 +1,1 @@
+savedcmd_/home/test/project/kernel/kernel-study/study-local-raspi/modules/kobject/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/test/project/kernel/kernel-study/study-local-raspi/modules/kobject/Module.symvers -T /home/test/project/kernel/kernel-study/study-local-raspi/modules/kobject/modules.order -i Module.symvers -e 

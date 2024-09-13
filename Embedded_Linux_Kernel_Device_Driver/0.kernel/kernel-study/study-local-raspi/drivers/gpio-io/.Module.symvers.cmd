@@ -1,0 +1,1 @@
+savedcmd_/home/test/project/kernel/kernel-study/study-local-raspi/drivers/gpio-io/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/test/project/kernel/kernel-study/study-local-raspi/drivers/gpio-io/Module.symvers -T /home/test/project/kernel/kernel-study/study-local-raspi/drivers/gpio-io/modules.order -i Module.symvers -e 

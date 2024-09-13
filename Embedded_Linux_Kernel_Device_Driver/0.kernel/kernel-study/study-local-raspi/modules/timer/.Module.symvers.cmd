@@ -1,0 +1,1 @@
+savedcmd_/home/test/project/kernel/kernel-study/study-local-raspi/modules/timer/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/test/project/kernel/kernel-study/study-local-raspi/modules/timer/Module.symvers -T /home/test/project/kernel/kernel-study/study-local-raspi/modules/timer/modules.order -i Module.symvers -e 

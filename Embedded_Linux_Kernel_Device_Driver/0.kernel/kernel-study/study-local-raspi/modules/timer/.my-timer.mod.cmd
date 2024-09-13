@@ -1,0 +1,1 @@
+savedcmd_/home/test/project/kernel/kernel-study/study-local-raspi/modules/timer/my-timer.mod := printf '%s\n'   my-timer.o | awk '!x[$$0]++ { print("/home/test/project/kernel/kernel-study/study-local-raspi/modules/timer/"$$0) }' > /home/test/project/kernel/kernel-study/study-local-raspi/modules/timer/my-timer.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/test/project/kernel/kernel-study/study-local-raspi/drivers/gpio-io/modules.order := {   echo /home/test/project/kernel/kernel-study/study-local-raspi/drivers/gpio-io/gpio-io.o; :; } > /home/test/project/kernel/kernel-study/study-local-raspi/drivers/gpio-io/modules.order

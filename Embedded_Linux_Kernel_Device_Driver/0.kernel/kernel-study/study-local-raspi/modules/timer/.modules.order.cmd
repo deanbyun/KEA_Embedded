@@ -1,0 +1,1 @@
+savedcmd_/home/test/project/kernel/kernel-study/study-local-raspi/modules/timer/modules.order := {   echo /home/test/project/kernel/kernel-study/study-local-raspi/modules/timer/my-timer.o; :; } > /home/test/project/kernel/kernel-study/study-local-raspi/modules/timer/modules.order

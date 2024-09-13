@@ -1,0 +1,1 @@
+savedcmd_/home/test/project/kernel/kernel-study/study-local-raspi/modules/kobject/modules.order := {   echo /home/test/project/kernel/kernel-study/study-local-raspi/modules/kobject/kobject-example.o; :; } > /home/test/project/kernel/kernel-study/study-local-raspi/modules/kobject/modules.order
