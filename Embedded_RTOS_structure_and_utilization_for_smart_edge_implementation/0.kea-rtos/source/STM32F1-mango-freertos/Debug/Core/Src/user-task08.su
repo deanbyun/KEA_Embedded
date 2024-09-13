@@ -1,0 +1,3 @@
+../Core/Src/user-task08.c:19:13:osTimerCallback	16	static
+../Core/Src/user-task08.c:35:13:ToggleLEDsThread	16	static
+../Core/Src/user-task08.c:52:6:task08_thread_create	56	static

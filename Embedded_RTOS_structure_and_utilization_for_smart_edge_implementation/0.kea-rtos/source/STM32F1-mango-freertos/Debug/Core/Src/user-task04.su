@@ -1,0 +1,2 @@
+../Core/Src/user-task04.c:19:13:SemaphoreTestThread	16	static
+../Core/Src/user-task04.c:36:6:task04_thread_create	56	static

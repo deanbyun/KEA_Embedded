@@ -1,0 +1,3 @@
+../Core/Src/user-task03.c:23:13:SemaphoreThread1	24	static
+../Core/Src/user-task03.c:68:13:SemaphoreThread2	24	static
+../Core/Src/user-task03.c:107:6:task03_thread_create	80	static
